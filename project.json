@@ -1,0 +1,81 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "image": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1698048681/f-aese/project/mokomdo_thumbnail_nzhibc.webp",
+      "title": "MOKOMDO",
+      "desc": "Multi Warehouse E-Commerce",
+      "github": "https://github.com/rhnas110/jcwd220405",
+      "demo": "https://res.cloudinary.com/dlzoyg2ox/video/upload/v1698048848/f-aese/project/mokomdo-demo_j64vej.mp4",
+      "status": "done",
+      "link": "https://jcwd220405.purwadhikabootcamp.com/",
+      "figma": ""
+    },
+    {
+      "id": 2,
+      "image": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1698048681/f-aese/project/mokomdo-text_ykfzg4.webp",
+      "title": "Simple UI MOKOMDO",
+      "desc": "Homepage design for MOKOMDO",
+      "github": "",
+      "demo": "",
+      "status": "done",
+      "link": "",
+      "figma": "https://www.figma.com/file/Hq9FjLinv9busUjGV0OvPw/final-online?node-id=45%3A255&t=QrLDwpy38KT6KjNp-1"
+    },
+    {
+      "id": 3,
+      "image": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1698048681/f-aese/project/f-aese_db5auf.webp",
+      "title": "frontendaese",
+      "desc": "My Simple Portfolio Website",
+      "github": "https://github.com/rhnas110/frontendaese",
+      "demo": "",
+      "status": "continue",
+      "link": "https://frontendaese.space/",
+      "figma": ""
+    },
+    {
+      "id": 4,
+      "image": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1698048682/f-aese/project/z-one_z1lxtv.webp",
+      "title": "ZeroOne",
+      "desc": "ZeroOne is a mini project that is copying Netflix.",
+      "github": "",
+      "demo": "https://res.cloudinary.com/dlzoyg2ox/video/upload/v1698048816/f-aese/project/z-one-demo_kukxjk.mp4",
+      "status": "stop",
+      "link": "",
+      "figma": ""
+    },
+    {
+      "id": 5,
+      "image": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1698048682/f-aese/project/ol_tvh3mi.webp",
+      "title": "Open Library",
+      "desc": "is a library project where you can borrow books anytime and anywhere",
+      "github": "https://github.com/rhnas110/openlibrary",
+      "demo": "https://res.cloudinary.com/dlzoyg2ox/video/upload/v1698048839/f-aese/project/ol-demo_cbunwq.mp4",
+      "status": "stop",
+      "link": "",
+      "figma": ""
+    },
+    {
+      "id": 6,
+      "image": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1698048681/f-aese/project/dicoding_jykykm.webp",
+      "title": "Landing Page Dicoding",
+      "desc": "Simple Landing Page Dicoding",
+      "github": "https://github.com/rhnas110/dicoding/tree/main/web_dasar/landing_page_dicoding",
+      "demo": "",
+      "status": "done",
+      "link": "https://dicoding.netlify.app/",
+      "figma": ""
+    },
+    {
+      "id": 7,
+      "image": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1698048682/f-aese/project/bandung_xj2tgu.webp",
+      "title": "Kota Bandung",
+      "desc": "small project to try Magnify JS",
+      "github": "https://github.com/rhnas110/dicoding/tree/main/web_dasar/halaman_profile_bandung",
+      "demo": "",
+      "status": "stop",
+      "link": "https://kota-bandung.netlify.app/",
+      "figma": ""
+    }
+  ]
+}
