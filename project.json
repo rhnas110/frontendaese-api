@@ -24,6 +24,28 @@
     },
     {
       "id": 3,
+      "image": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1698062243/f-aese/project/motionime_circit.webp",
+      "title": "motionime",
+      "desc": "motionime is a discord community founded by Windah Basudara, Rio Djaja, et al.",
+      "github": "https://github.com/rhnas110/motionime",
+      "demo": "",
+      "status": "continue",
+      "link": "https://motionime.online/",
+      "figma": ""
+    },
+    {
+      "id": 4,
+      "image": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1698062497/f-aese/project/aese_epi70o.webp",
+      "title": "aese",
+      "desc": "",
+      "github": "https://github.com/rhnas110/aese",
+      "demo": "https://res.cloudinary.com/dlzoyg2ox/video/upload/v1698048913/f-aese/project/aese-demo_savymy.mp4",
+      "status": "continue",
+      "link": "https://aese.space/",
+      "figma": ""
+    },
+    {
+      "id": 5,
       "image": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1698048681/f-aese/project/f-aese_db5auf.webp",
       "title": "frontendaese",
       "desc": "My Simple Portfolio Website",
@@ -34,7 +56,7 @@
       "figma": ""
     },
     {
-      "id": 4,
+      "id": 6,
       "image": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1698048682/f-aese/project/z-one_z1lxtv.webp",
       "title": "ZeroOne",
       "desc": "ZeroOne is a mini project that is copying Netflix.",
@@ -45,7 +67,7 @@
       "figma": ""
     },
     {
-      "id": 5,
+      "id": 7,
       "image": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1698048682/f-aese/project/ol_tvh3mi.webp",
       "title": "Open Library",
       "desc": "is a library project where you can borrow books anytime and anywhere",
@@ -56,7 +78,7 @@
       "figma": ""
     },
     {
-      "id": 6,
+      "id": 8,
       "image": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1698048681/f-aese/project/dicoding_jykykm.webp",
       "title": "Landing Page Dicoding",
       "desc": "Simple Landing Page Dicoding",
@@ -67,7 +89,7 @@
       "figma": ""
     },
     {
-      "id": 7,
+      "id": 9,
       "image": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1698048682/f-aese/project/bandung_xj2tgu.webp",
       "title": "Kota Bandung",
       "desc": "small project to try Magnify JS",
@@ -75,6 +97,28 @@
       "demo": "",
       "status": "stop",
       "link": "https://kota-bandung.netlify.app/",
+      "figma": ""
+    },
+    {
+      "id": 10,
+      "image": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1698062867/f-aese/project/prodigy_jgb8mv.webp",
+      "title": "Prodigy Login Page",
+      "desc": "is an open source project that was developed to participate in hacktoberfest.",
+      "github": "https://github.com/Prodigy-InfoTech/Web-Development-Projects",
+      "demo": "",
+      "status": "stop",
+      "link": "",
+      "figma": ""
+    },
+    {
+      "id": 11,
+      "image": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1698063275/f-aese/project/snapgrid_j05aaf.webp",
+      "title": "SnapGrid",
+      "desc": "SnapGrid is a versatile web platform that simplifies image discovery and downloads.",
+      "github": "https://github.com/Vijaykv5/SnapGrid",
+      "demo": "",
+      "status": "stop",
+      "link": "https://snapgrid.netlify.app/",
       "figma": ""
     }
   ]
